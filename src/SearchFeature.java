@@ -2,7 +2,10 @@
 public class SearchFeature {
 	
 	public SearchFeature() {
-		System.out.println(1);
-		System.out.println(1);
+		method();
+	}
+	
+	public void method() {
+		System.out.println("method");
 	}
 }
