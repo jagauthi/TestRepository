@@ -8,5 +8,6 @@ public class TestObject {
 	
 	public void foo2() {
 		System.out.println("ah");
+		System.out.println("ah2");
 	}
 }
