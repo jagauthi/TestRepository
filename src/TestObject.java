@@ -3,15 +3,10 @@ public class TestObject {
 	
 	public TestObject() {
 		System.out.println("Created");
-		foo();
-		bar();
+		foo2();
 	}
 	
-	public void foo() {
-		System.out.println("Next");
-	}
-	
-	public void bar() {
-		System.out.println("Then");
+	public void foo2() {
+		System.out.println("ah");
 	}
 }
